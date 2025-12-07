@@ -11,7 +11,7 @@ def print_lyrics():
    ]
 delays =[1.0, 0.1, 1.22, 0.9, 0.8]
 
-print("Arz kya hai?...........\n)
+print("Arz kya hai?...........\n")
  time.sleel(1.4)
 
         for i, line in enumerate(lyrics):
